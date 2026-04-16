@@ -106,11 +106,10 @@ prototype/
 
 **Dashboard Upload Screen**
 <img width="1600" height="731" alt="WhatsApp Image 2026-04-16 at 5 14 15 PM" src="https://github.com/user-attachments/assets/d4177db5-27aa-4b3b-bcec-7892ff2b8e58" />
-<img width="1600" height="731" alt="WhatsApp Image 2026-04-16 at 5 14 15 PM" src="https://github.com/user-attachments/assets/7eefe826-8d1e-4672-abfc-1eadb64b3896" />
-
-
 
 **Validation <img width="1600" height="759" alt="WhatsApp Image 2026-04-16 at 5 15 55 PM" src="https://github.com/user-attachments/assets/22526a52-dc71-4ba8-a254-d59ce6371c30" />
+<img width="1578" height="819" alt="image" src="https://github.com/user-attachments/assets/b87d3759-66a1-4f6b-8060-68603d110214" />
+
 and Reasoning Engine**
 > *Screenshot showcasing the interactive dial highlighting the Compliance Score alongside the color-coded issues list detailing exactly what went wrong and how to fix it.*
 `![Compliance Results](./path-to-results.png)`
