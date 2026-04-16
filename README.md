@@ -105,6 +105,9 @@ prototype/
 *(Replace these blocks with actual screenshots once you use the tool)*
 
 **Dashboard Upload Screen**
+<img width="1600" height="731" alt="WhatsApp Image 2026-04-16 at 5 14 15 PM" src="https://github.com/user-attachments/assets/d4177db5-27aa-4b3b-bcec-7892ff2b8e58" />
+<img width="1600" height="731" alt="WhatsApp Image 2026-04-16 at 5 14 15 PM" src="https://github.com/user-attachments/assets/7eefe826-8d1e-4672-abfc-1eadb64b3896" />
+
 
 
 **Validation <img width="1600" height="759" alt="WhatsApp Image 2026-04-16 at 5 15 55 PM" src="https://github.com/user-attachments/assets/22526a52-dc71-4ba8-a254-d59ce6371c30" />
