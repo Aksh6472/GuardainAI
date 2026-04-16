@@ -105,9 +105,9 @@ prototype/
 *(Replace these blocks with actual screenshots once you use the tool)*
 
 **Dashboard Upload Screen**
-> *Screenshot of the dual drag-and-drop zones showing a premium dark-themed layout.*
-`![Upload Dashboard](./path-to-upload.png)`
 
-**Validation and Reasoning Engine**
+
+**Validation <img width="1600" height="759" alt="WhatsApp Image 2026-04-16 at 5 15 55 PM" src="https://github.com/user-attachments/assets/22526a52-dc71-4ba8-a254-d59ce6371c30" />
+and Reasoning Engine**
 > *Screenshot showcasing the interactive dial highlighting the Compliance Score alongside the color-coded issues list detailing exactly what went wrong and how to fix it.*
 `![Compliance Results](./path-to-results.png)`
